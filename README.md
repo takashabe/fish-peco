@@ -16,7 +16,7 @@ Add key bindings to `config.json - fish_user_key_bindings`:
 
 ```fish
 function fish_user_key_bindings
-  bind \c] peco_select_ghq      # Ctrl-j
+  bind \c] peco_select_ghq      # Ctrl-]
   bind \cr peco_select_history  # Ctrl-r
 end
 ```
