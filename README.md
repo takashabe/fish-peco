@@ -7,7 +7,7 @@
 [Fisherman](https://github.com/fisherman/fisherman):
 
 ```fish
-fisher takashabe/fish-pretty-theme
+fisher takashabe/fish-peco
 ```
 
 ## Feature
@@ -32,7 +32,7 @@ Or you can easily use it by adding key binding to `config.fish`.
 function fish_user_key_bindings
   bind \c] peco_select_ghq      # Ctrl-]
   bind \cr peco_select_history  # Ctrl-r
-  bind \cj peco_select_z        # Ctrl-r
+  bind \cj peco_select_z        # Ctrl-j
 end
 ```
 
