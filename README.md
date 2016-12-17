@@ -10,17 +10,30 @@
 fisher takashabe/fish-pretty-theme
 ```
 
+## Feature
+
+Use peco with:
+
+* [ghq](https://github.com/motemen/ghq)
+* history
+* [z](https://github.com/fisherman/z)
+
 ## Usage
 
-Add key bindings to `config.json - fish_user_key_bindings`:
+Type the function name on the shell.
+
+```fish
+peco_select_ghq
+```
+
+Or you can easily use it by adding key binding to `config.fish`.
 
 ```fish
 function fish_user_key_bindings
   bind \c] peco_select_ghq      # Ctrl-]
   bind \cr peco_select_history  # Ctrl-r
+  bind \cj peco_select_z        # Ctrl-r
 end
 ```
 
-Type these bound keys you can use the function.
-
-You can change the key binding to anything.
+Type these bound keys you can use the function. You can change the key binding to anything.
