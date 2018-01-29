@@ -18,6 +18,7 @@ Use peco with:
 * history
 * [z](https://github.com/fisherman/z)
 * [ag](https://github.com/ggreer/the_silver_searcher)
+* [k8s context](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#config)
 
 ## Usage
 
