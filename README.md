@@ -14,8 +14,9 @@ fisher takashabe/fish-peco
 
 Use peco with:
 
-* [ghq](https://github.com/motemen/ghq)
 * history
+* find directory
+* [ghq](https://github.com/motemen/ghq)
 * [z](https://github.com/fisherman/z)
 * [ag](https://github.com/ggreer/the_silver_searcher)
 * [k8s context](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#config)
