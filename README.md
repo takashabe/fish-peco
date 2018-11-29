@@ -20,6 +20,7 @@ Use peco with:
 * [z](https://github.com/fisherman/z)
 * [ag](https://github.com/ggreer/the_silver_searcher)
 * [k8s context](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#config)
+* [tmux window](http://man.openbsd.org/OpenBSD-current/man1/tmux.1#list-windows)
 
 ## Usage
 
