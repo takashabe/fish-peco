@@ -2,6 +2,8 @@
 
 [peco](https://github.com/peco/peco) select functions for fish shell
 
+*fzf version is here. https://github.com/takashabe/fish-fzf*
+
 ## Install
 
 [Fisherman](https://github.com/fisherman/fisherman):
