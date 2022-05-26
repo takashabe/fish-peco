@@ -9,7 +9,7 @@
 [Fisherman](https://github.com/fisherman/fisherman):
 
 ```fish
-fisher takashabe/fish-peco
+fisher install takashabe/fish-peco
 ```
 
 ## Feature
